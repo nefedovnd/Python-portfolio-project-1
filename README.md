@@ -1,4 +1,4 @@
-# U.S. medical insurance costs analysis.
+# 🚑 U.S. medical insurance costs analysis.
 
 This my first Python portfolio project for Codecademy Python Data Science course.
 

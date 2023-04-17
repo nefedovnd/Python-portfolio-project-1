@@ -1,3 +1,7 @@
-# Python portfolio project 1
-Codecademy - "U.S. medical insurance portfolio project".
-This is my first Pyhton project (via Codecademy data science course)
+# U.S. medical insurance costs analysis.
+
+This my first Python portfolio project for Codecademy Python Data Science course.
+
+This project presumes no specific guidelines and work "on your own".
+
+Thus I will mainly focus on descriptive statistics for the "U.S. Medical Insurance Costs" analysis.
